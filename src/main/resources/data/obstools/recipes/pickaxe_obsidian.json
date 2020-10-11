@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "AAA",
+    " B ",
+    " B "
+  ],
+  "key":
+  {
+    "A": { "item": "obstools:ingot_obsidian" },
+    "B": { "item": "minecraft:stick" }
+  },
+  "result":
+  {
+    "item": "obstools:pickaxe_obsidian",
+    "count": 1
+  }
+}
+
