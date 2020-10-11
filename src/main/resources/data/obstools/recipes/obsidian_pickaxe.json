@@ -8,12 +8,12 @@
   ],
   "key":
   {
-    "A": { "item": "obstools:ingot_obsidian" },
+    "A": { "item": "obstools:obsidian_ingot" },
     "B": { "item": "minecraft:stick" }
   },
   "result":
   {
-    "item": "obstools:pickaxe_obsidian",
+    "item": "obstools:obsidian_pickaxe",
     "count": 1
   }
 }

@@ -25,6 +25,7 @@ public class ObsidianTools implements ModInitializer
             {
                 stacks.add(new ItemStack(ModItems.ObsidianIngot));
                 stacks.add(new ItemStack(ModItems.ObsidianPickaxe));
+                stacks.add(new ItemStack(ModItems.ObsidianSword));
             })
             .build();
 }

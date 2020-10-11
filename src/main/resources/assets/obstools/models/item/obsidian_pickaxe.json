@@ -2,6 +2,6 @@
   "parent": "item/generated",
   "textures":
   {
-    "layer0": "obstools:items/pickaxe_obsidian"
+    "layer0": "obstools:items/obsidian_pickaxe"
   }
 }

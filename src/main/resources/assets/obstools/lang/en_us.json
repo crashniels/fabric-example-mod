@@ -1,5 +1,6 @@
 {
   "itemGroup.obstools.obsidiantools": "Obsidian Tools",
-  "item.obstools.ingot_obsidian": "Obsidian Ingot",
-  "item.obstools.pickaxe_obsidian": "Obsidian Pickaxe"
+  "item.obstools.obsidian_ingot": "Obsidian Ingot",
+  "item.obstools.obsidian_pickaxe": "Obsidian Pickaxe",
+  "item.obstools.obsidian_sword": "Obsidian Sword"
 }
