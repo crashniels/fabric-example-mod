@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "result": "obstools:obsidian_ingot",
+  "ingredient": {
+    "item": "minecraft:obsidian"
+  },
+  "experience": 0.0,
+  "cookingtime": 400
+}
