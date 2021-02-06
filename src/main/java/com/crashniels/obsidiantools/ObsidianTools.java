@@ -19,7 +19,7 @@ public class ObsidianTools implements ModInitializer
     }
 
     public static final ItemGroup ObsidianTools = FabricItemGroupBuilder.create(
-            new Identifier("obstools", "obsidiantools"))
+            new Identifier(MOD_ID, "obsidiantools"))
             .icon(() -> new ItemStack(ModItems.ObsidianIngot))
             .appendItems(stacks ->
             {
