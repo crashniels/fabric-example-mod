@@ -2,5 +2,7 @@
   "itemGroup.obstools.obsidiantools": "Obsidian Tools",
   "item.obstools.obsidian_ingot": "Obsidian Ingot",
   "item.obstools.obsidian_pickaxe": "Obsidian Pickaxe",
-  "item.obstools.obsidian_sword": "Obsidian Sword"
+  "item.obstools.obsidian_sword": "Obsidian Sword",
+  "item.obstools.obsidian_shovel": "Obsidian Shovel",
+  "item.obstools.obsidian_hoe": "Obsidian Hoe"
 }

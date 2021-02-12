@@ -9,4 +9,6 @@ public class CustomSwordItem extends SwordItem
     {
         super(material, attackDamage, attackSpeed, settings);
     }
+
+    
 }

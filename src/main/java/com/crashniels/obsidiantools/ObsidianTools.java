@@ -5,7 +5,6 @@ import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.Items;
 import net.minecraft.util.Identifier;
 
 public class ObsidianTools implements ModInitializer
@@ -24,8 +23,10 @@ public class ObsidianTools implements ModInitializer
             .appendItems(stacks ->
             {
                 stacks.add(new ItemStack(ModItems.ObsidianIngot));
-                stacks.add(new ItemStack(ModItems.ObsidianPickaxe));
                 stacks.add(new ItemStack(ModItems.ObsidianSword));
+                stacks.add(new ItemStack(ModItems.ObsidianPickaxe));
+                stacks.add(new ItemStack(ModItems.ObsidianShovel));
+                stacks.add(new ItemStack(ModItems.ObsidianHoe));
             })
             .build();
 }

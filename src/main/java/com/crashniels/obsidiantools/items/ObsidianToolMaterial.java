@@ -1,6 +1,5 @@
 package com.crashniels.obsidiantools.items;
 
-import com.crashniels.obsidiantools.ObsidianTools;
 import com.crashniels.obsidiantools.registry.ModItems;
 import net.minecraft.item.*;
 import net.minecraft.recipe.Ingredient;
@@ -12,7 +11,7 @@ public class ObsidianToolMaterial implements ToolMaterial
     @Override
     public int getDurability()
     {
-        return 420;
+        return 2200;
     }
 
     @Override

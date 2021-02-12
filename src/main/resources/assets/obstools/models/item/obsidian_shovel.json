@@ -2,6 +2,6 @@
   "parent": "item/handheld",
   "textures":
   {
-    "layer0": "obstools:items/obsidian_pickaxe"
+    "layer0": "obstools:items/obsidian_shovel"
   }
 }
